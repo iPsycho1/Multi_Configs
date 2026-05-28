@@ -11,7 +11,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/CF%20New",
     "https://unlckmy.net/sub/u1153432s4043099p70/b0128f702507821423d47ec5ddce5e9d",
-    "https://sub.shadowproxy66.workers.dev/sub/214abfe9-791e-44ba-bd8e-0afe298119f6#ShadowProxy66(2)",
+    "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
     "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
