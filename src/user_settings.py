@@ -9,13 +9,11 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
     "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
-    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/CF%20New",
     "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
     "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/BPB",
     # Add more URLs here if you want to include additional sources.
 ]
 
