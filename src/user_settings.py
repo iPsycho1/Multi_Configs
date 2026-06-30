@@ -6,14 +6,10 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
-    "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
-    "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
-    "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
-    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=f0da90cd94bffab95e6ada85af8064e4",
     # Add more URLs here if you want to include additional sources.
 ]
 
