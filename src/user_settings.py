@@ -9,7 +9,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
-    "https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=f0da90cd94bffab95e6ada85af8064e4",
+    "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
