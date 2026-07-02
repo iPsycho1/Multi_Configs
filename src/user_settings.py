@@ -7,8 +7,8 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
-    "https://t.me/s/DirectVPN",
-    "https://t.me/s/persianvpnhub",
+    "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
+    "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
     "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
