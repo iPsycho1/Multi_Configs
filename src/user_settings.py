@@ -9,7 +9,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
     "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
     "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
-    "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
+    "https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
