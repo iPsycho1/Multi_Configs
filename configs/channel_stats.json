@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-13T13:28:53.528911+00:00",
+  "timestamp": "2026-08-14T02:24:55.041159+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 62,
-        "unique_configs": 62,
-        "avg_response_time": 0.15,
+        "valid_configs": 49,
+        "unique_configs": 49,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.84,
-        "last_success": "2026-08-13T13:09:29.436085+00:00",
+        "last_success": "2026-08-14T01:55:57.736790+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 14,
           "ss://": 0,
-          "trojan://": 48,
+          "trojan://": 35,
           "tuic://": 0
         }
       }
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.99,
-        "last_success": "2026-08-13T13:09:40.811670+00:00",
+        "last_success": "2026-08-14T01:56:09.097629+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,22 +51,22 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 289444,
-        "valid_configs": 493,
-        "unique_configs": 493,
-        "avg_response_time": 0.2,
+        "total_configs": 72361,
+        "valid_configs": 248,
+        "unique_configs": 248,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.74,
-        "last_success": "2026-08-13T13:10:38.589119+00:00",
+        "overall_score": 74.95,
+        "last_success": "2026-08-14T01:56:20.928752+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 50,
-          "vmess://": 48,
-          "ss://": 5,
-          "trojan://": 389,
-          "tuic://": 1
+          "vless://": 32,
+          "vmess://": 67,
+          "ss://": 2,
+          "trojan://": 147,
+          "tuic://": 0
         }
       }
     },
@@ -74,18 +74,18 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
       "enabled": true,
       "metrics": {
-        "total_configs": 73984,
-        "valid_configs": 160,
-        "unique_configs": 160,
+        "total_configs": 127449,
+        "valid_configs": 200,
+        "unique_configs": 200,
         "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2026-08-13T13:11:12.217051+00:00",
+        "overall_score": 74.91,
+        "last_success": "2026-08-14T01:57:43.940767+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 160,
+          "vless://": 200,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -97,22 +97,22 @@
       "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 491397,
-        "valid_configs": 542,
-        "unique_configs": 542,
-        "avg_response_time": 0.09,
+        "total_configs": 610740,
+        "valid_configs": 681,
+        "unique_configs": 681,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.89,
-        "last_success": "2026-08-13T13:14:16.012314+00:00",
+        "overall_score": 74.79,
+        "last_success": "2026-08-14T02:02:34.974355+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 13,
-          "vless://": 140,
-          "vmess://": 11,
-          "ss://": 8,
-          "trojan://": 369,
-          "tuic://": 1
+          "hysteria2://": 19,
+          "vless://": 107,
+          "vmess://": 22,
+          "ss://": 5,
+          "trojan://": 528,
+          "tuic://": 0
         }
       }
     },
@@ -120,21 +120,21 @@
       "url": "https://github.com/Delta-Kronecker/Sub/raw/refs/heads/main/config/all_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 833569,
-        "valid_configs": 628,
-        "unique_configs": 628,
-        "avg_response_time": 0.55,
+        "total_configs": 1283689,
+        "valid_configs": 827,
+        "unique_configs": 827,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.19,
-        "last_success": "2026-08-13T13:20:27.794551+00:00",
+        "overall_score": 74.12,
+        "last_success": "2026-08-14T02:14:08.450416+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 341,
+          "vless://": 417,
           "vmess://": 0,
-          "ss://": 72,
-          "trojan://": 215,
+          "ss://": 85,
+          "trojan://": 325,
           "tuic://": 0
         }
       }
@@ -143,21 +143,21 @@
       "url": "https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 684756,
-        "valid_configs": 436,
-        "unique_configs": 436,
-        "avg_response_time": 0.15,
+        "total_configs": 642402,
+        "valid_configs": 425,
+        "unique_configs": 425,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.79,
-        "last_success": "2026-08-13T13:28:53.526247+00:00",
+        "overall_score": 74.61,
+        "last_success": "2026-08-14T02:24:55.038428+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 390,
-          "vmess://": 5,
-          "ss://": 19,
-          "trojan://": 22,
+          "vless://": 383,
+          "vmess://": 1,
+          "ss://": 29,
+          "trojan://": 12,
           "tuic://": 0
         }
       }
