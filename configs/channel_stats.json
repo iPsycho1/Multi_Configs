@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-23T01:37:55.797638+00:00",
+  "timestamp": "2026-08-23T14:11:58.979689+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.04,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2026-08-23T01:18:13.538106+00:00",
+        "overall_score": 74.97,
+        "last_success": "2026-08-23T12:38:28.627115+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 3,
+          "vless://": 1,
+          "vmess://": 10,
           "ss://": 0,
-          "trojan://": 15,
+          "trojan://": 3,
           "tuic://": 0
         }
       }
@@ -34,8 +34,8 @@
         "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.99,
-        "last_success": "2026-08-23T01:18:51.106129+00:00",
+        "overall_score": 75.0,
+        "last_success": "2026-08-23T12:39:07.061794+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,7 +58,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.05,
-        "last_success": "2026-08-23T01:19:00.911270+00:00",
+        "last_success": "2026-08-23T12:39:17.162986+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -74,18 +74,18 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
       "enabled": true,
       "metrics": {
-        "total_configs": 58564,
-        "valid_configs": 142,
-        "unique_configs": 142,
-        "avg_response_time": 0.04,
+        "total_configs": 29929,
+        "valid_configs": 100,
+        "unique_configs": 100,
+        "avg_response_time": 0.0,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.0,
-        "last_success": "2026-08-23T01:19:27.207906+00:00",
+        "overall_score": 75.08,
+        "last_success": "2026-08-23T12:39:27.917247+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 142,
+          "vless://": 100,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -97,22 +97,22 @@
       "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 75350,
-        "valid_configs": 187,
-        "unique_configs": 187,
-        "avg_response_time": 0.01,
+        "total_configs": 3667176,
+        "valid_configs": 1216,
+        "unique_configs": 1216,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.05,
-        "last_success": "2026-08-23T01:19:40.923455+00:00",
+        "overall_score": 74.95,
+        "last_success": "2026-08-23T13:54:19.412503+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 5,
-          "vless://": 118,
-          "vmess://": 5,
-          "ss://": 18,
-          "trojan://": 40,
-          "tuic://": 1
+          "hysteria2://": 130,
+          "vless://": 716,
+          "vmess://": 137,
+          "ss://": 125,
+          "trojan://": 106,
+          "tuic://": 2
         }
       }
     },
@@ -143,21 +143,21 @@
       "url": "https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1027182,
-        "valid_configs": 546,
-        "unique_configs": 546,
-        "avg_response_time": 0.01,
+        "total_configs": 936056,
+        "valid_configs": 517,
+        "unique_configs": 517,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.0,
-        "last_success": "2026-08-23T01:37:55.795900+00:00",
+        "overall_score": 74.88,
+        "last_success": "2026-08-23T14:11:58.977099+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 485,
-          "vmess://": 1,
-          "ss://": 23,
-          "trojan://": 37,
+          "vless://": 465,
+          "vmess://": 4,
+          "ss://": 46,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
