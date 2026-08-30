@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-30T04:05:45.494009+00:00",
+  "timestamp": "2026-08-30T16:17:02.175043+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.13,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.82,
-        "last_success": "2026-08-30T03:58:25.189768+00:00",
+        "overall_score": 74.63,
+        "last_success": "2026-08-30T16:09:36.775821+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 1,
-          "vmess://": 5,
+          "vless://": 3,
+          "vmess://": 7,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 3,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 107584,
         "valid_configs": 214,
         "unique_configs": 214,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2026-08-30T03:58:57.138761+00:00",
+        "overall_score": 74.7,
+        "last_success": "2026-08-30T16:10:14.740058+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,22 +51,22 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 27889,
-        "valid_configs": 105,
-        "unique_configs": 105,
-        "avg_response_time": 0.1,
+        "total_configs": 484,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2026-08-30T03:59:00.901712+00:00",
+        "overall_score": 75.56,
+        "last_success": "2026-08-30T16:10:16.826499+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 3,
-          "vless://": 75,
+          "hysteria2://": 0,
+          "vless://": 10,
           "vmess://": 2,
-          "ss://": 9,
-          "trojan://": 15,
-          "tuic://": 1
+          "ss://": 0,
+          "trojan://": 1,
+          "tuic://": 0
         }
       }
     },
@@ -77,11 +77,11 @@
         "total_configs": 29929,
         "valid_configs": 91,
         "unique_configs": 91,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.92,
-        "last_success": "2026-08-30T03:59:16.356798+00:00",
+        "last_success": "2026-08-30T16:10:35.025561+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,20 +97,20 @@
       "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 158800,
-        "valid_configs": 208,
-        "unique_configs": 208,
-        "avg_response_time": 0.12,
+        "total_configs": 142506,
+        "valid_configs": 205,
+        "unique_configs": 205,
+        "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.86,
-        "last_success": "2026-08-30T04:00:10.361680+00:00",
+        "overall_score": 74.58,
+        "last_success": "2026-08-30T16:11:26.018016+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 12,
-          "vless://": 166,
-          "vmess://": 19,
-          "ss://": 11,
+          "hysteria2://": 8,
+          "vless://": 180,
+          "vmess://": 12,
+          "ss://": 5,
           "trojan://": 0,
           "tuic://": 0
         }
