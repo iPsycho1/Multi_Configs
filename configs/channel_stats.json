@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-10-10T04:39:22.018527+00:00",
+  "timestamp": "2026-10-10T17:03:08.058106+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 77,
-        "unique_configs": 77,
-        "avg_response_time": 0.06,
+        "valid_configs": 86,
+        "unique_configs": 86,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.99,
-        "last_success": "2026-10-10T04:37:45.411789+00:00",
+        "overall_score": 75.04,
+        "last_success": "2026-10-10T17:01:52.444479+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 15,
+          "vless://": 10,
+          "vmess://": 17,
           "ss://": 0,
-          "trojan://": 62,
+          "trojan://": 59,
           "tuic://": 0
         }
       }
@@ -34,8 +34,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.04,
-        "last_success": "2026-10-10T04:38:02.751540+00:00",
+        "overall_score": 75.05,
+        "last_success": "2026-10-10T17:02:09.390242+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,21 +51,21 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1225,
-        "valid_configs": 30,
-        "unique_configs": 30,
-        "avg_response_time": 0.01,
+        "total_configs": 529,
+        "valid_configs": 20,
+        "unique_configs": 20,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.6,
-        "last_success": "2026-10-10T04:38:04.775144+00:00",
+        "overall_score": 75.85,
+        "last_success": "2026-10-10T17:02:11.463597+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 12,
-          "ss://": 16,
-          "trojan://": 2,
+          "vless://": 1,
+          "vmess://": 5,
+          "ss://": 14,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -74,18 +74,18 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
       "enabled": true,
       "metrics": {
-        "total_configs": 15376,
-        "valid_configs": 86,
-        "unique_configs": 86,
-        "avg_response_time": 0.01,
+        "total_configs": 12769,
+        "valid_configs": 74,
+        "unique_configs": 74,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.12,
-        "last_success": "2026-10-10T04:38:09.099796+00:00",
+        "overall_score": 75.04,
+        "last_success": "2026-10-10T17:02:15.248139+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 86,
+          "vless://": 74,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -97,22 +97,22 @@
       "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 238620,
-        "valid_configs": 387,
-        "unique_configs": 387,
-        "avg_response_time": 0.01,
+        "total_configs": 206564,
+        "valid_configs": 378,
+        "unique_configs": 378,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.02,
-        "last_success": "2026-10-10T04:39:12.143909+00:00",
+        "overall_score": 74.93,
+        "last_success": "2026-10-10T17:03:00.084108+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 17,
-          "vless://": 85,
-          "vmess://": 24,
-          "ss://": 13,
-          "trojan://": 246,
-          "tuic://": 2
+          "hysteria2://": 12,
+          "vless://": 59,
+          "vmess://": 18,
+          "ss://": 14,
+          "trojan://": 272,
+          "tuic://": 3
         }
       }
     },
@@ -120,21 +120,21 @@
       "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 22440,
-        "valid_configs": 98,
-        "unique_configs": 98,
-        "avg_response_time": 0.08,
+        "total_configs": 25239,
+        "valid_configs": 85,
+        "unique_configs": 85,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.98,
-        "last_success": "2026-10-10T04:39:22.015951+00:00",
+        "overall_score": 74.88,
+        "last_success": "2026-10-10T17:03:08.055422+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 83,
+          "vless://": 67,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 15,
+          "trojan://": 18,
           "tuic://": 0
         }
       }
