@@ -9,6 +9,9 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
     "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
     "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
+    "https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66(1)",
+    "https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66(2)",
+    "https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66(3)",
     # Add more URLs here if you want to include additional sources.
 ]
 
